@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#edf4ee"/>
+      <stop offset="1" stop-color="#f7f3ec"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="600" fill="url(#g)"/>
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="Inter, sans-serif" font-size="36" fill="#0f3b2f">Hero image (desktop) — replace with real photo</text>
+  <rect x="80" y="360" width="1040" height="160" fill="#e8efe9" rx="12"/>
+</svg>
