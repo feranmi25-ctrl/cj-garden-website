@@ -1,6 +1,6 @@
-# CJ Garden — Showroom static site
+# FemS — Showroom static site
 
-This repository contains a mobile-first, luxurious single-page static site built as a showroom for a local garden business called CJ Garden. It includes brand direction, finished copy, styling and interactive elements.
+This repository contains a mobile-first, luxurious single-page static site built as a showroom for a local garden business called FemS. It includes brand direction, finished copy, styling and interactive elements.
 
 Contents
 - index.html — the single-page site
@@ -12,7 +12,7 @@ Contents
 Showroom details
 - Area (SEO): Riverside & Southshire
 - Phone: +44 7700 900123
-- Email: hello@cjgarden.example
+- Email: hello@fems.example
 - WhatsApp (example): +44 7700 900123
 
 Netlify forms

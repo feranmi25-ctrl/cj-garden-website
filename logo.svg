@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" width="320" height="80">
   <rect width="100%" height="100%" fill="#f7f3ec"/>
-  <text x="12" y="54" font-family="Playfair Display, serif" font-size="44" fill="#0f3b2f">CJ Garden</text>
+  <text x="12" y="54" font-family="Playfair Display, serif" font-size="44" fill="#0f3b2f">FemS</text>
   <g transform="translate(240,12)">
     <path d="M10 20 C 12 8, 28 8, 30 20 C 28 18, 22 18, 20 20 C 18 22, 12 22, 10 20 Z" fill="#b77949" opacity="0.9"/>
   </g>
